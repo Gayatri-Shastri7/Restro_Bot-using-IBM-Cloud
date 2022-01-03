@@ -1,7 +1,7 @@
 # Voice Restro_Bot-using-IBM-Cloud
 
-<h3>It is a conversational AI based chatbot.‍Using sophisticated deep learning and natural language understanding (NLU), it can elevate a customer’s experience into something truly transformational. Customers no longer have to feel the frustration of primitive chatbot solutions that often fall short due to narrow scope and limitations.
-                       With this conversational AI based Foodbot, one can go beyond just translating website content into simple chatbot responses. Here, customers can book restaurants, Order food, Reserve tables, Ask queries regarding food, restaurants and much more - directly from the chat window.
+<h3>It is a conversational AI based chatbot.‍Using sophisticated deep learning and natural language understanding (NLU), it can elevate a customer’s experience into something truly transformational. Customers no longer have to feel the frustration of primitive chatbot solutions that often fall short due to narrow scope and limitations.<br>
+                       With this conversational AI based Foodbot, one can go beyond just translating website content into simple chatbot responses. Here, customers can book restaurants, Order food, Reserve tables, Ask queries regarding food, restaurants and much more - directly from the chat window.<br>
                         I think it is exemplary because its available 24/7, Marketing via Facebook Messenger,  No downloads required,Provides Natural language responses, pre-trained on thousands of industry-specific customer intents, Unlimited scalability,Automatic Semantic Understanding (ASU), Entity extraction and Compatible with any API.</h3>
 
 
